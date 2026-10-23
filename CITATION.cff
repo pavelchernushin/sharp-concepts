@@ -65,7 +65,7 @@ authors:
     given-names: Eva
   - family-names: Fischer
     given-names: Frank
-# repository-code: 'https://github.com/psymarkus/sharp-concepts'
+repository-code: 'https://github.com/psymarkus/sharp-concepts'
 url: 'https://w3id.org/sharp/ontology'
 keywords:
   - SHARP
